@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Evidence-Augmented LLMs for Misinformation Detection
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In an era marked by the rapid dissemination of misinformation and disinformation, the need for effective fact-checking methodologies has never been more pressing. Traditional fact-checking approaches, while valuable, suffer from limitations such as time-consuming manual processes and lack of contextual explanation for classifications. This paper proposes a novel approach to fact-checking by leveraging Large Language Models (LLMs) within a multi-model pipeline to provide both veracity labels and informative explanations for claims. Building upon previous research, we integrate various predictive AI models and external evidence from reliable sources to enhance the contextuality and accuracy of our predictions. Our results are encouraging, as we show that Google's Gemini 1.0 LLM is (conditionally) able to perform well on the task of veracity rating when posed as a 6-way classification task.
